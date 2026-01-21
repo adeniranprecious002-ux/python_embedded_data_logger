@@ -1,0 +1,1 @@
+matplotlib>=3.7 # For creating static, animated, and interactive visualizations in Python
